@@ -11,6 +11,10 @@
 
 Hi there 👋. I’m Rahul Sangubotla, a skilled and results-driven developer with a strong background in Java,Machine Learning and a passion for crafting high-quality apps and libraries. If I’m not crafting app/library then probably wondering about the universe’s existence.
 
+💻 Languages and Tools: 🛠️
+
+Git GitHub Visual Studio Code HTML5 CSS3 Sass Font Awesome JavaScript jQuery Bootstrap JSON React Redux Nodejs NPM socket.io Jest PostgreSQL MySQL MongoDB Swagger ESlint Windows
+
 ## Get in touch :coffee:
 - [LinkedIn](https://www.linkedin.com/in/rahulsangubotla)
 <!--
