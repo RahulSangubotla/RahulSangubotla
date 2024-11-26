@@ -4,7 +4,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="(https://profile-counter.glitch.me/rahulsangubotla/count.svg)" />
+  <img src="https://profile-counter.glitch.me/rahulsangubotla/count.svg" />
 </p>
 
 ## About me
