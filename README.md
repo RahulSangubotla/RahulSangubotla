@@ -9,7 +9,7 @@
 
 ## About me
 
-Hi there 👋. I’m Rahul Sangubotla, a skilled and results-driven developer with a strong background in Java,Machine Learning and a passion for crafting high-quality apps and libraries. If I’m not crafting app/library then probably wondering about the universe’s existence.
+Hi there 👋. I’m Rahul Sangubotla, a skilled and results-driven developer with a strong background in Java,Machine Learning and Full Stack Web Development. If I’m not crafting app/library then probably wondering about the universe’s existence.
 
 💻 **Languages and Tools:** 🛠️<br>
 
