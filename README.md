@@ -2,11 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/RahulSangubotla/RahulSangubotla/main/resources/banner.png" alt="Hello world">
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/rahulsangubotla/count.svg" />
-</p>
-
 ## About me
 
 Hi there 👋. I’m Rahul Sangubotla, a skilled and results-driven developer with a strong background in Java,Machine Learning and Full Stack Web Development. If I’m not crafting app/library then probably wondering about the universe’s existence.
